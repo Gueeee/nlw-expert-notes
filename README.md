@@ -8,6 +8,8 @@
  **Node:** v20.11.0 \
  **React:** v18.2.0
 
+ Use `npm install` to make sure everything works accordingly.
+
 ## Available Scripts
 
 In the project directory, you can run:
