@@ -1,4 +1,4 @@
-# Project: Tela de Login
+# Project: NLW Expert Notes
 
 **Contents**: Development of a front-end application in ReactJS, application of the concepts of Properties States and Components, typing with Typescript, tooling with Vite, responsive interface with TailwindCSS, use of Web APIs such as Web Storage and Web Speech.
  
